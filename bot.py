@@ -5,7 +5,7 @@ from datetime import datetime
 import openpyxl
 import os
 
-API_TOKEN = "8149722779:AAH8oWO9Gj2v15LgnvfzWT8Sgewoeg8gND0"
+API_TOKEN 
 bot = telebot.TeleBot(API_TOKEN)
 
 language_links = {
